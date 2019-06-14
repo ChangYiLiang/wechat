@@ -1,0 +1,11 @@
+server:
+  port: 4900
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false
+wechat:
+  appId: wx564b3a5dfce23f18
+  appSecret: 4a660d06d5b5a5baaa117c42726173f7
+  templateId: dvGfzg0PLpziNdpw3Z_UdrpZQ0Ijm5XzWUS3D7S59nY
